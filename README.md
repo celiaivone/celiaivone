@@ -1,5 +1,3 @@
-# Bootcamp-Undefined-Shell
-Actividades 2023
 ## PERCCA CCAMA CELIA IVONE
 
 # ☎️CONTACTOS
