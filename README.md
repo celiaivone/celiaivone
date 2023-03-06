@@ -8,11 +8,11 @@
 [linkedin 💼](https://www.linkedin.com/in/celia-percca-ccama-a1362816a)
 
 ## 👩‍💼PERFIL PROFESIONAL
-Ingeniera Agroindustrial con espelialidad en investigación, desarrollo de nuevos productos y control de calidad. Con experiencia en grupos sociales y trabajo en equipo.
+Ingeniera Agroindustrial con especialidad en **investigación**, **desarrollo de nuevos productos y control de calidad**. Con experiencia en grupos sociales y trabajo en equipo.
 
-## EXPERIENCIA LABORAL
-- Ayudante de investigación en la universidade Federal da Grande Dourados - Brasil (*2020*) 
-- Asistente en control de calidad en la empresa Operadores Logísticos - Puno (*2021*) 
+## 💬EXPERIENCIA LABORAL
+- Ayudante de investigación en la universidade Federal da Grande Dourados - Brasil (**2020**) 
+- Asistente en control de calidad en la empresa Operadores Logísticos - Puno (**2021**) 
 
 ## 📖FORMACIÓN ACADÉMICA
 - Bachiller en Ingeniería Agroindustrial (2015-2021)
@@ -24,7 +24,10 @@ Ingeniera Agroindustrial con espelialidad en investigación, desarrollo de nuevo
 - Español Avanzado
 - Portugués Avanzado
 - Frances Básico
-
+## 🌱APRENDIENDO
+- Inglés
+- Italiano
+- Programación Fullstack
 <!--
 **celiaivone/celiaivone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
