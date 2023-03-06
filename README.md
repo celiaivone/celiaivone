@@ -1,9 +1,9 @@
 # PERCCA CCAMA CELIA IVONE
 
 ## ☎️CONTACTOS
-- Dirección :Jirón Juan Sotomayor N°160
-- Teléfono : 951684679
-- Correo Electrónico : perccaccamacelia@gmail.com
+* Dirección :Jirón Juan Sotomayor N°160
+* Teléfono : 951684679
+* Correo Electrónico : perccaccamacelia@gmail.com
 
 [linkedin 💼](https://www.linkedin.com/in/celia-percca-ccama-a1362816a)
 
