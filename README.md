@@ -23,6 +23,7 @@ Ingeniera Agroindustrial con especialidad en **investigación**, **desarrollo de
 - Español Avanzado
 - Portugués Avanzado
 - Frances Básico
+- Inglés Intermedio
 ## 🌱APRENDIENDO
 - Inglés
 - Italiano
